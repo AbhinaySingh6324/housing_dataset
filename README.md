@@ -13,4 +13,16 @@ Things you will learn by completing this project:
 How to use NumPy to investigate the latent features of a dataset.
 How to analyze various learning performance plots for variance and bias.
 How to determine the best-guess model for predictions from unseen data.
-How to evaluate a model's performance on unseen data using previous data
+How to evaluate a model's performance on unseen data using previous data.
+
+# Technology Used
+This project applies basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home.
+
+Software and Libraries
+This project uses the following software and Python libraries:
+
+* Python 2.7
+* NumPy
+* pandas
+* matplotlib
+* scikit-learn
