@@ -21,8 +21,10 @@ This project applies basic machine learning concepts on data collected for housi
 Software and Libraries
 This project uses the following software and Python libraries:
 
-* Python 2.7
+* Python 3.9
 * NumPy
 * pandas
 * matplotlib
 * scikit-learn
+# Model selection
+I used different regressors and checked their Root-squared score in the beginning of the project.But slowly visualising the data  and using pairplot and looking at scatter plot of data.i came to coclusion that decision tree regressor will fit best in this kind of dataset.   
