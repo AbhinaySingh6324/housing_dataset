@@ -27,4 +27,4 @@ This project uses the following software and Python libraries:
 * matplotlib
 * scikit-learn
 # Model selection
-I used different regressors and checked their Root-squared score in the beginning of the project.But slowly visualising the data  and using pairplot and looking at scatter plot of data.i came to coclusion that decision tree regressor will fit best in this kind of dataset.   
+I used different regressors and checked their Root-squared score in the beginning of the project.But slowly visualising the data  and using pairplot and looking at scatter plot of data,I came to conclusion that decision tree regressor will fit best in this kind of dataset.   
